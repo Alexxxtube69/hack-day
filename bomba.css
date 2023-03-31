@@ -1,0 +1,171 @@
+body {
+
+background-color: rgb(134, 132, 132);
+
+}
+
+#cal{
+
+    margin: 65px;
+    margin-top: 8%;
+    margin-left: 35%;
+    width: 480px;
+    height: 680px;
+    background-color: rgb(34, 34, 34);
+    border-radius: 53px;
+    padding: 15px;
+    border: 0;
+    outline: none;
+    cursor: default;
+    font-family: 'Roboto',sans-serif;
+
+
+
+}
+
+
+
+
+#pantalla{
+margin-top: 45px;
+margin-left: 40px;
+height: 70px;
+width: 400px;
+font-size: 40px;
+color: white;
+border-radius: 25px;
+background-color: rgba(70, 94, 70, 0.418);
+}
+
+#uno{
+
+    height: 100px;
+    width: 100px;
+    border-radius: 50px;
+    margin-top: 25px;
+    margin-left: 42px;
+    font-size: 40px;
+    background-color: grey;
+}
+
+#dos{
+
+    height: 100px;
+    width: 100px;
+    border-radius: 50px;
+    margin-top: 10px;
+    font-size: 40px;
+    margin-left: 42px;
+    background-color: gray;
+}
+
+#tres{
+
+    height: 100px;
+    width: 100px;
+    border-radius: 50px;
+    margin-top: 25px;
+    margin-left: 42px;
+    font-size: 40px;
+
+    background-color: rgb(233, 160, 24);
+}
+
+#cuatro{
+    font-size: 40px;
+
+    height: 100px;
+    width: 100px;
+    border-radius: 50px;
+    margin-top: 25px;
+    margin-left: 42px;
+}
+
+#cinco{
+    font-size: 40px;
+
+    height: 100px;
+    width: 100px;
+    border-radius: 50px;
+    margin-top: 25px;
+    margin-left: 42px;
+}
+
+#seis{
+    font-size: 40px;
+
+    height: 100px;
+    width: 100px;
+    border-radius: 50px;
+    margin-top: 25px;
+    margin-left: 42px;
+    background-color: rgb(233, 160, 24);
+
+}
+
+#siete{
+    font-size: 40px;
+
+    height: 100px;
+    width: 100px;
+    border-radius: 50px;
+    margin-top: 25px;
+    margin-left: 42px;
+}
+
+#ocho{
+    font-size: 40px;
+
+    height: 100px;
+    width: 100px;
+    border-radius: 50px;
+    margin-top: 25px;
+    margin-left: 42px;
+}
+
+#nueve{
+    font-size: 40px;
+
+    height: 100px;
+    width: 100px;
+    border-radius: 50px;
+    margin-top: 25px;
+    margin-left: 42px;
+    background-color: rgb(233, 160, 24);
+
+}
+#delete{
+
+    font-size: 40px;
+    height: 100px;
+    width: 100px;
+    border-radius: 50px;
+    margin-top: 25px;
+    margin-left: 42px;
+}
+
+#enter{
+    font-size: 40px;
+
+    height: 100px;
+    width: 100px;
+    border-radius: 50px;
+    margin-top: 25px;
+    margin-left: 42px;
+    background-color: rgb(233, 160, 24);
+
+}
+
+#cero {
+    font-size: 40px;
+
+    height: 100px;
+    width: 100px;
+    border-radius: 50px;
+    margin-top: 25px;
+    margin-left: 42px;
+    
+
+}
+
+

@@ -1,0 +1,59 @@
+body {
+	background-image: url(fondo.gif);
+
+
+}
+
+#principal {
+
+width: 100%;
+background-color:  rgba(146, 156, 146, 0.589);
+border-radius: 17px;
+border:  solid;
+}
+
+#central{
+
+
+    width: 100%;
+    height: 100%;
+    background-color:  rgba(146, 156, 146, 0.589);
+    border-radius: 17px;
+    border:  solid;
+
+
+}
+
+
+.botoon {
+
+    width:100% ;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+ #jugaaar{
+
+display: block;
+text-align: cener;
+width: 450px;
+height: 100px;
+background-color:  rgba(12, 12, 12, 0.644);
+border-radius:50px;
+text-align: center;
+line-height: 80px;
+font-size: 45px;
+border: rgb(255, 255, 255);
+color: rgb(253, 253, 253);
+transition: all 400ms ease-out;
+ cursor: pointer;
+padding: 12px;
+	box-shadow: 0 4px 6px rgb(224, 21, 21);
+ box-shadow: 0 0 10px 0  rgba(255, 8, 0, 0.842) inset ,
+    0 0 10px  4px rgba(175, 84, 84, 0.925); 
+}
+
+

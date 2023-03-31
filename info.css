@@ -1,0 +1,77 @@
+body {
+	background-image: url(fondo.gif);
+
+}
+
+#principal{
+
+    width: 100%;
+    height: 1233px;
+    background-color: rgba(168, 164, 164, 0.507);
+
+
+}
+
+#pagina {
+ position: absolute;
+ top: 50%;
+ left: 50%;
+ transform: translate(-50%, -50%);
+ width: 800px;
+height: 850px;
+border: solid;
+background-color: rgba(71, 68, 68, 0.507);
+border-radius: 17px;
+
+}
+
+#txt{
+text-align: center;
+color: rgb(0, 0, 0);
+font-size: 40px;
+
+}
+
+#boton{
+
+    background:  black;
+    padding: 12px;
+    width: 70px;
+    cursor: pointer;
+    color: rgb(230, 221, 221);
+    transition: .5s ease;
+    border-radius: 10px;
+
+
+}
+
+#boton:hover {
+    background: transparent;
+    border: 2px solid #030303;
+    box-shadow: 0 0 10px 0  rgba(17, 98, 204, 0.333) inset ,
+    0 0 10px  4px rgba(31, 155, 31, 0.541); 
+    border-radius: 10px;
+}
+
+
+#paginast{
+    position: absolute;
+    top: 90%;
+    left: 10%;
+    width: 80%;
+    text-align: center;
+
+
+}
+
+#img {
+    position: absolute;
+    top: 60%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 350px;
+   height: 250px;
+
+
+
+}

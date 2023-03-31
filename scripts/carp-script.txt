@@ -1,0 +1,14 @@
+#!/bin/bash
+
+# Creamos un loop para crear 10 carpetas
+for i in {1..10}
+do
+    # Creamos el nombre de la carpeta
+    folder_name="car$i"
+    # Usamos el comando mkdir para crear la carpeta
+    mkdir "$folder_name"
+    echo "Se ha creado la carpeta $folder_name"
+
+if = i = 8 echo "  Has una select que nos muestre a kidd keo y su numero de celda:   "
+
+done

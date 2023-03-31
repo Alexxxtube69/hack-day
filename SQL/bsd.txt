@@ -1,0 +1,38 @@
+create table jugadores (
+
+p_nom varchar2(20),
+p_cog varchar2(20),
+p_num number(4) primary key,
+p_num_aula number(4)
+
+);
+
+insert into jugadores
+values('npc1','agg',4051,6695)
+
+insert into jugadores
+values('npc2','asa',3591,9999)
+
+insert into jugadores
+values('npc3','sjj',0247,5050)
+
+insert into jugadores
+values('npc4','pzk',9421,6305)
+
+insert into jugadores
+values('npc5','dam sin pila',4051,3560)
+
+insert into jugadores
+values('npc6','trn',0101,0000)
+
+insert into jugadores
+values('npc7','mdb',7007,9248)
+
+insert into jugadores
+values('npc8','keolan',0051,3627)
+
+insert into jugadores
+values('npc9','nni',4361,1385)
+
+insert into jugadores
+values('alpha','gagegigogu',5661,2115)
